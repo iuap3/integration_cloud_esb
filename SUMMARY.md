@@ -4,6 +4,7 @@
 * [产品介绍](articles/cesb/1-/README.md)
     * [产品概述](articles/cesb/1-/summary.md)
 * [获取指南](articles/cesb/2-/README.md)
+    * [注册登录](articles/cesb/2-/register_login.md)
     * [介质说明](articles/cesb/2-/jie_zhi_shuo_ming.md)
     * [安装使用](articles/cesb/2-/an_zhuang_shi_yong.md)
 * [快速入门](articles/cesb/4-/README.md)
