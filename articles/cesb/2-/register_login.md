@@ -3,7 +3,7 @@
 云ESB平台，官方网站访问地址是http://esb.yonyoucloud.com。
 通过网站，用户可了解云ESB产品、解决方案、资源等信息。用户购买相关服务，可以完成自己的云集成需求。
 
-![](/assets/2-/image6.png)
+![](/assets/2-/image6.jpg)
 
 图：云ESB平台网站
 
