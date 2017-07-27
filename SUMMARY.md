@@ -31,8 +31,6 @@
     * [配置Server](articles/cesb/6-/pei_zhi_server.md)
     * [ESB服务器设置](articles/cesb/6-/server_she_zhi.md)
     * [开发集成项目](articles/cesb/6-/kai_fa_ji_cheng.md)
-* [产品常见问题](articles/cesb/7-/questions.md)
-    * [常见问题](articles/cesb/7-/concerns.md)
 
 
 
