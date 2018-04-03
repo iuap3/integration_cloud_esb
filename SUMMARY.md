@@ -1,10 +1,11 @@
 # Table of content
 
-* [产品介绍](articles/cesb/1-/README.md)
+* [产品介绍](articles/cesb/1-/)
     * [产品概述](articles/cesb/1-/summary.md)
     * [产品优势](articles/cesb/1-/advantages.md)
     * [应用场景](articles/cesb/1-/scenarios.md)
     * [基础架构](articles/cesb/1-/structure.md)
+* [版本更新](articles/cesb/2-/)
     * [产品历程](articles/cesb/1-/history.md)
 * [获取指南](articles/cesb/2-/README.md)
     * [注册登录](articles/cesb/2-/register_login.md)
