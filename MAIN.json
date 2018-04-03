@@ -1,0 +1,26 @@
+{ 
+ "title": "云ESB", 
+ "desc": "由云集成服务提供商提供的云集成服务（例如：Oracle ICS、IBM Bluemix、MULESOFT Anypoint），云ESB是对其原有传统集成中间件的云化以及API管理、云上的运营支撑服务。用户只需要购买相关服务，即可以完成自己的云集成需求。iuap 云ESB平台，对原iuap集成平台产品的云化以及API管理与云上运营支撑服务。它提供了一个统一的混合云集成平台，主要解决以下集成问题：SOA集成、SaaS集成和APIS集成（API之间的集成）。", 
+ "list": [ 
+ { 
+ "title": "快速入门", 
+ "link": "#/md-build/integration_cloud_esb/articles/cesb/4-/process_config.md", 
+ "desc": "本文介绍云ESB的流程配置到事件和定时器配置的相关内容" 
+ }, 
+ { 
+ "title": "资源管理", 
+ "link": "#/md-build/integration_cloud_esb/articles/cesb/5-/zhi_yuan_guan_li.md", 
+ "desc": "讲解了资源管理的具体内容" 
+ }, 
+ { 
+ "title": "应用管理", 
+ "link": "#/md-build/integration_cloud_esb/articles/cesb/5-/ying_yong_guan_li.md", 
+ "desc": "讲解了应用管理的具体内容" 
+ }, 
+ { 
+ "title": "用户管理", 
+ "link": "#/md-build/integration_cloud_esb/articles/cesb/5-/yong_hu_guan_li.md", 
+ "desc": "讲解了用户管理的具体内容" 
+ } 
+ ] 
+ } 
